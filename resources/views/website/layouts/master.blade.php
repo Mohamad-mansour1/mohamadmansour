@@ -20,30 +20,12 @@
     <meta property="og:url" content="https://mohamadmansour.me" />
     {{-- <meta property="og:image" content="https://mohamadmansour.me/public/assets/img/profile/profile-img.jpg"/> --}}
     <meta property="og:description" content="Explore my portfolio as a Software developer specialized in Laravel, Php, Javascript, MySql, Sql Server, Html, CSS , Bootstrap."/>
-
-    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/boxicons.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/fonts/flaticon.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/nice-select.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/odometer.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
-
-    <link rel="stylesheet" href="{{ asset('assets/css/theme-dark.css') }}">
+    <!-- build:css -->
+    <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}">
+    <!-- endbuild -->
     <title>Mohamad Mansour</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap">
     <link rel="icon" type="image/png" href="{{ asset('assets/img/new/logo.png') }}">
 </head>
 <body data-bs-spy="scroll" data-offset="70">

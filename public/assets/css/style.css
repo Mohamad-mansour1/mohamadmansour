@@ -1,32 +1,15 @@
-/*
-@File: Pufo Template Style
+@import url('bootstrap.min.css');
+@import url('boxicons.min.css');
+@import url('../fonts/flaticon.css');
+@import url('magnific-popup.min.css');
+@import url('owl.carousel.min.css');
+@import url('owl.theme.default.min.css');
+@import url('nice-select.min.css');
+@import url('odometer.min.css');
+@import url('animate.min.css');
+@import url('responsive.css');
+@import url('theme-dark.css');
 
-* This file contains the styling for the actual template, this
-is the file you need to edit to change the look of the
-template.
-
-This files table contents are outlined below>>>>>
-
-*******************************************
-*******************************************
-
-** - Default CSS
-** - Home Demo One CSS
-** - Home Demo Two CSS
-** - Home Demo Three CSS
-** - Home Demo Four CSS
-** - Home Demo Five CSS
-** - Home Demo Six CSS
-** - Work Details CSS
-** - Case Study Details CSS
-** - Blog Details CSS
-** - Service Details CSS
-** - Demos CSS
-** - Go Top CSS
-** - Preloader CSS
-*/
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap");
 /*----- Default CSS -----*/
 body {
   font-family: "Open Sans", sans-serif;
